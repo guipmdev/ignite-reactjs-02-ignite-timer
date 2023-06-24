@@ -10,10 +10,14 @@ import {
 
 import { Play } from '@phosphor-icons/react'
 
+// controlled / uncontrolled
+
 export function Home() {
+  function handleSubmit(event) {}
+
   return (
     <HomeContainer>
-      <form action="">
+      <form onSubmit={handleSubmit}>
         <FormContainer>
           <label htmlFor="task">Vou trabalhar em</label>
           <TaskInput
