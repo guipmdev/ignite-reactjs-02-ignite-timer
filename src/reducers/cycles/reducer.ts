@@ -49,7 +49,7 @@ export function cyclesReducer(state: CyclesState, action: any) {
       }
 
       return produce(state, (draft) => {
-        draft.cycles[currentCycleIndex].interruptedDate = new Date()
+        draft.cycles[currentCycleIndex].finishedDate = new Date()
         draft.activeCycleId = null
       })
     }
