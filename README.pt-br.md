@@ -95,11 +95,19 @@
 
 ## 📍 Visão geral
 
-Esse projeto é uma aplicação web desenvolvida em _React_ e _TypeScript_ que ...
+Esse projeto é uma aplicação web desenvolvida em _React_ e _TypeScript_ servindo como cronômetro para gerenciar ciclos, permitindo que os usuários criem tarefas com durações específicas e as interrompam e/ou marquem como concluídas.
 
-Seu objetivo principal é ...
+A aplicação oferece recursos como cronômetros de contagem regressiva, histórico e uma interface fácil de usar, melhorando a produtividade e as habilidades de gestão de tempo.
 
 ## ✨ Funcionalidades
+
+⏱ Defina **o que deseja trabalhar**, e por quanto **tempo**
+
+🎯 **Mude de aba** e continue vendo o tempo passar
+
+🔄 Atualizar a página **não perde o progresso**
+
+📃 Veja as tarefas em andamento, já concluídas e/ou interrompidas em formato de **histórico**
 
 ## 🤖 Demo
 

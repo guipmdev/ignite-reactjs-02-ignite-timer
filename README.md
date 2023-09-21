@@ -95,11 +95,19 @@
 
 ## 📍 Overview
 
-This project is a web application developed in _React_ and _TypeScript_ that ...
+This project is a web application developed in _React_ and _TypeScript_ that serves as a timer tool for managing cycles. It allows users to create cycles with specific tasks and durations, interrupt cycles, and mark them as finished.
 
-Its main objective is...
+The application offers features such as countdown timers, history and an easy-to-use interface, improving productivity and time management skills.
 
 ## ✨ Features
+
+⏱ Define **what you want to work on**, and **how long for**
+
+🎯 **Change browser tab** and keep watching the time go by
+
+🔄 Refresh the page **doesn't lose progress**
+
+📃 View ongoing, completed and/or interrupted tasks in a **history** format
 
 ## 🤖 Demo
 
