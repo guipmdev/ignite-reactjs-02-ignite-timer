@@ -103,6 +103,8 @@ Its main objective is...
 
 ## 🤖 Demo
 
+https://github.com/guipmdev/ignite-timer/assets/136738335/cad338b5-518c-4ffc-84d5-c7e78d0df639
+
 ## 🎨 Layout
 
 The layout of the application was designed by **Rocketseat** and is available on [Figma](<https://www.figma.com/file/djb7QGcTHA3Qtunn77t7pB/Ignite-Timer-(Community)>).
