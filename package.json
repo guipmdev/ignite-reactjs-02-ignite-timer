@@ -1,6 +1,6 @@
 {
   "name": "ignite-timer",
-  "description": "",
+  "description": "Web app cycle timer with countdown, history, and easy UI for productivity",
   "private": true,
   "type": "module",
   "scripts": {
