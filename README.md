@@ -14,7 +14,7 @@
 
 <p align="center">
   <a
-    href="https://guipmdev-ignite-feed.vercel.app/"
+    href="https://guipmdev-ignite-timer.vercel.app/"
     title="Go to the web application"
   >
     <img

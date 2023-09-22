@@ -19,7 +19,7 @@
   >
     <img
       src="./src/assets/logo-ignite.svg"
-      alt="Logo do Ignite Feed"
+      alt="Logo do Ignite Timer"
       height="60px"
     />
   </a>
