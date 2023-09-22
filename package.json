@@ -38,6 +38,9 @@
     "type": "git",
     "url": "git+https://github.com/guipmdev/ignite-timer.git"
   },
+  "bugs": {
+    "url": "https://github.com/guipmdev/ignite-timer/issues"
+  },
   "author": {
     "name": "Guilherme Preveda Milék",
     "email": "guipmdev@gmail.com",
